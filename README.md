@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shohanur Rahman</h1>
-<h3 align="center">Web Developer || Django, DRF || Python || Vue Js || Python Automation</h3>
+<h3 align="center">Web Developer || Django, DRF || Python || React || Python Automation</h3>
 
 Hi there! a dedicated Full Stack Web Developer and Python Programmer with over 3 years of hands-on experience in crafting user-friendly websites and efficient digital tools. My passion lies at the intersection of design and problem-solving, which drives me to deliver exceptional digital experiences.
 
