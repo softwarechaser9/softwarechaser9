@@ -18,7 +18,7 @@ Hi there! a dedicated Full Stack Web Developer and Python Programmer with over 3
 
 #### Front-End Development:
 - Fluent in JavaScript, HTML, CSS, and Bootstrap for designing stunning, responsive UIs.
-- Well-versed in Vue.js for creating interactive web applications.
+- Well-versed in React for creating interactive web applications.
 
 #### Database Management:
 - Knowledgeable in MySQL, PostgreSQL, and MongoDB for data storage, retrieval, and manipulation.
