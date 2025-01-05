@@ -33,7 +33,6 @@ In my journey of over 3 years, I have consistently believed in the importance of
 
 Calendly: [Schedule a Consultation](https://calendly.com/shohanur9009/consultation)
 
-- 👨‍💻 All of my projects are available at [https://shohanur.srandb.com/](https://shohanur.srandb.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
