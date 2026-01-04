@@ -29,7 +29,7 @@ Hi there! a dedicated Senior Software Developer/Full Stack Web Developer and Pyt
 
 ### Continuous Learning
 
-In my journey of over 3 years, I have consistently believed in the importance of continuous learning and adapting to new challenges in development.
+In my journey of over 3.5 years, I have consistently believed in the importance of continuous learning and adapting to new challenges in development.
 
 📧 **Email:** [shohanur9009@gmail.com](mailto:shohanur9009@gmail.com)  
 📱 **WhatsApp:** [Chat on WhatsApp](https://wa.me/8801717321690)
